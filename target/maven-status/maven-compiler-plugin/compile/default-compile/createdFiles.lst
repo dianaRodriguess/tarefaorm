@@ -1,0 +1,5 @@
+com/exemplo/jdbc/ProgramaJDBC.class
+com/exemplo/orm/entidades/Projeto.class
+com/exemplo/jdbc/ConexaoJDBC.class
+com/exemplo/orm/ProgramaORM.class
+com/exemplo/orm/entidades/Atividade.class
